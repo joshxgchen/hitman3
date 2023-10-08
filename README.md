@@ -1,6 +1,6 @@
 # Hitman React Native Project
 
-A React Native application that emulates the scope of Hitman 3's gun on your phone screen.
+A React Native application that emulates the scope of Hitman 3's gun on your phone screen. Featured and demoed on SFU Comp Sci's Instagram page, with 100+ likes.
 
 ## Description
 
@@ -9,11 +9,10 @@ This project is a mobile application built with React Native that simulates the 
 ## Features
 
 - Realistic scope visualization and effects
-- ??? 
+- Interactable UI
+- A simple voice assistant that tells you when to adjust your scope, and launch
+- Arduino sensor data
 
-## Demo
-
-[Include a link or GIF demonstrating the application in action.]
 
 ## Installation
 
@@ -45,6 +44,7 @@ Once the application is running on your device, follow these steps to use the Hi
 3. Hold your phone as if you were aiming a gun.
 4. Use your device's gyroscope and touch gestures to aim and interact with the scope.
 5. Experience the simulated Hitman 3's scope on your phone screen.
+6. Attach the gunscope to the nerf gun.
 
 ## Credits
 
